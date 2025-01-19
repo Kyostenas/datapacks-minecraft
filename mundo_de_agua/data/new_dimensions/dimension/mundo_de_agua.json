@@ -1,0 +1,24 @@
+{
+    "type": "new_dimensions:oceanic",
+    "generator": {
+        "type": "minecraft:noise",
+        "settings": "new_dimensions:oceanic",
+        "biome_source": {
+            "type": "minecraft:multi_noise",
+            "biomes": [
+                {
+                    "biome": "minecraft:lukewarm_ocean",
+                    "parameters": {
+                        "continentalness": 0,
+                        "depth": 0,
+                        "erosion": -0.9,
+                        "humidity": 2,
+                        "offset": 0,
+                        "temperature": 0,
+                        "weirdness": -0.5
+                    }
+                }
+            ]
+        }
+    }
+}

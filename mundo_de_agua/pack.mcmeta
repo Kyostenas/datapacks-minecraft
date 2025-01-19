@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": [
+      48,
+      48
+    ],
+    "description": "Mundo de agua :) (Minecraft 1.21"
+  },
+  "features": {
+    "enabled": [
+      "vanilla"
+    ]
+  }
+}
